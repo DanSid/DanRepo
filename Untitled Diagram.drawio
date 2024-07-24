@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T08:56:53.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.5" etag="VeUu-s_s9K-cu6cQyf7H" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T09:13:59.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_e2XVqaqsarVINvAtWKE" version="24.6.5" type="github">
   <diagram name="Page-1" id="tkDCSld6iGUeG8eWS53I">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;* SU&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;* ADD 2 OTHER ADMINS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * USER CAN DELETE&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * ASIGN ROLES&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * DO ANY FUNCTIONS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;*Admin cannot change anything an SU has done&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lsh4avZ4pkzFFOOrqLT7-3" target="lsh4avZ4pkzFFOOrqLT7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-3" value="Admin Portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;* Upload an Image&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;* Title&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * Short descriptions (Ask about the checks)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * Categories [Digital, Media, Cortent]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; * Upload 3-4 img&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lsh4avZ4pkzFFOOrqLT7-7" target="lsh4avZ4pkzFFOOrqLT7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-7" value="Portfolio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lsh4avZ4pkzFFOOrqLT7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lsh4avZ4pkzFFOOrqLT7-1" target="lsh4avZ4pkzFFOOrqLT7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
